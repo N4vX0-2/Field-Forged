@@ -1,5 +1,6 @@
 # Field Forged
 **Autonomia Libertas Secretum Integritas**
+
 **Privacy-first, offline job estimation built for the trades.**
 
 > Field Forged is a privacy-first, offline-ready job estimation tool designed for independent tradespeople and small field service teams.  

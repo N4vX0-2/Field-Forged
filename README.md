@@ -1,5 +1,5 @@
 # Field Forged
-**Autonomia Libertas Secretum Integritas**
+**Autonomia Libertas Secretum Integritas Aequitas**
 
 **Privacy-first, offline job estimation built for the trades.**
 

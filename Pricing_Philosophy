@@ -1,0 +1,81 @@
+# Field Forged — Proposed Pricing Philosophy & Tiering
+
+This document outlines the proposed ethical pricing model behind Field Forged. Designed to remove barriers for skilled solo tradespeople while holding larger organizations proportionally accountable, this model ensures accessibility, fairness, and long-term sustainability without adopting exploitative SaaS tactics.
+
+---
+
+## "Trickle-Up" Pricing Philosophy
+
+Instead of trickle-down pricing model, where cost burdens fall on the smallest users, Field Forged wiishes to use a **"trickle-up pricing"** model:
+
+- **Smaller teams pay less** because they often lack the volume or margins to absorb SaaS overhead.
+- **Larger organizations contribute more** due to their scale, infrastructure, and systemic benefits.
+- The goal: empower independents, reduce vendor lock-in, and scale ethically.
+
+This isn't punishment; it's **equity-conscious tiering**.
+
+---
+
+## Proposed Tier-Based Licensing Structure
+
+Licenses are purchased per trade domain (e.g., Handyman, HVAC, Electrical, Plumbing, Mechanic, Welder, etc).
+
+| User Type                | Team Size    | Price Per License | Notes                                  |
+|-------------------------|--------------|-------------------|----------------------------------------|
+| Solo Operator           | 1            | $10/license       | One trade domain; upgrade optional     |
+| Small Crew              | 2–10         | $12/license       | Team use; same domain                  |
+| Field Team (Mid-Size)   | 11–50        | $15/license       | Audit-ready; usage metering optional   |
+| Large Org               | 51–100       | $18/license       | License tracking; priority support     |
+| Enterprise (>100 Users) | 100+         | $20/license       | Custom terms; license manager required |
+
+- Each license grants perpetual offline use of current version  
+- Multi-trade discounts available upon request
+
+---
+
+## Add-Ons vs. New Versions
+
+### **Add-Ons**
+> Modules and template packs that enhance the base app without upgrading the core version.
+
+Examples:
+- Trade-specific templates (e.g., "Mini Split Ductless Pack")
+- Industry calculators (e.g., thermal loss, payback estimators)
+- Advanced print layout themes
+- Offline job photo archival tools
+
+✔ One-time cost per add-on, no recurring fees  
+✔ Available a la carte  
+✔ All add-ons respect local storage and offline use
+
+### **New Versions / Feature Upgrades**
+> Major version changes that introduce new core functionality or backend architecture.
+
+Examples:
+- Version 2.0 introducing encryption
+- Offline audit logs and revision history
+- LAN-only sync or multi-device mesh mode
+
+✔ Offered as separate paid upgrade  
+✔ Discounted for existing users  
+✔ Never forced — older versions remain usable
+
+---
+
+## No Subscription Lock-In
+
+- You will never pay monthly to access your own data.  
+- You will never lose access because a server went down.  
+- You control your tools, not the other way around.
+
+Field Forged is not just a tool; it's a stance.
+
+---
+
+## Custom Licensing & Questions
+
+For model requests, custom deployments, or bundling Field Forged into hardware kits:
+
+**Email:** licensing@fieldledgertech.com
+
+_Last updated: 2026-01-01_

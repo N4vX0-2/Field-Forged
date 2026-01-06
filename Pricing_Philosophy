@@ -20,16 +20,17 @@ This isn't punishment; it's **equity-conscious tiering**.
 
 Licenses are purchased per trade domain (e.g., Handyman, HVAC, Electrical, Plumbing, Mechanic, Welder, etc).
 
-| User Type                | Team Size    | Price Per License | Notes                                  |
-|-------------------------|--------------|-------------------|----------------------------------------|
-| Solo Operator           | 1            | $10/license       | One trade domain; upgrade optional     |
-| Small Crew              | 2–10         | $12/license       | Team use; same domain                  |
-| Field Team (Mid-Size)   | 11–50        | $15/license       | Audit-ready; usage metering optional   |
-| Large Org               | 51–100       | $18/license       | License tracking; priority support     |
-| Enterprise (>100 Users) | 100+         | $20/license       | Custom terms; license manager required |
+| User Type                | Team Size    | Price Per License     | Notes                                      |
+|-------------------------|--------------|------------------------|--------------------------------------------|
+| Solo Operator           | 1            | Price/license              | One trade domain; upgrade optional     |
+| Small Crew              | 2–10         | Price x 1.25/license       | Team use; same domain                  |
+| Field Team (Mid-Size)   | 11–50        | Price x 1.5/license        | Audit-ready; usage metering optional   |
+| Large Org               | 51–100       | Price x 1.75/license       | License tracking                       |
+| Enterprise (>100 Users) | 100+         | Not Supported              | No plans current to support enterprise |
 
 - Each license grants perpetual offline use of current version  
 - Multi-trade discounts available upon request
+- No prioritization of one individuaal or organization over any other
 
 ---
 
@@ -78,4 +79,4 @@ For model requests, custom deployments, or bundling Field Forged into hardware k
 
 **Email:** licensing@fieldledgertech.com
 
-_Last updated: 2026-01-01_
+_Last updated: 2026-01-06_

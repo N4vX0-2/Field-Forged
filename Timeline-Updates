@@ -1,28 +1,28 @@
-# Field Forged — Development Timeline & Updates
+Field Forged — Development Timeline & Updates
 
 This file tracks the evolution of the Field Forged platform in a clear and accountable format. Use this to understand the pace of progress, key architectural decisions, and what’s coming next.
 
----
 
-## Development Milestones
 
-### **November 1-15 2025**
+Development Milestones
+
+**November 1-15 2025**
 - Worked with friend to creaate signable PDF's and contractual documentatiion; found out about the iintrinsic and literal cost associated with independent trade workers
 - Started deveoping aa problem statement and researching how to resolve the problem of "Software that prices many individuals out of the market, forcing them to spend time hand creaating documentation for each job." 
 - Started working on template creation with a basic original template in PDF format
 
-### **November 15-30 2025**
+**November 15-30 2025**
 - Finalized core concept: Local-first, cloud-free job estimation for trade professionals
 - Selected architecture
 - Built initial prototype: labor + materials estimation engine
 
-### **December 1-15**
+**December 1-15**
 - Completed core UI shell
 - Implemented localStorage persistence for jobs and templates
 - Added markup, tax, and discount controls per estimate
 - Created customer/internal view toggle for print-to-PDF
 
-### **December 15-31**
+**December 15-31**
 - Integrated photo uploads (before/after with captions)
 - Branding engine added (logo, company info)
 - Enabled full JSON import/export for portability
@@ -32,19 +32,23 @@ This file tracks the evolution of the Field Forged platform in a clear and accou
 - Uploaded project statement to github
 - Released complete `README.md` and project documentation
 
-### **January 1, 2026**
+**January 1, 2026**
 - Working beta
 - Tested and retuned
----
 
-## Upcoming Releases
+**January 9, 2026**
+- Code Obfuscated and license key code added to base code. 
+- Working PWA created for use on iOS & android Devices (testing in progress) 
 
-### **January 2026**
+
+Upcoming Releases
+
+**January 2026**
 - Provide partners with beta version application and recieve feedback for chaanges & improvements
-- Begin implementation of Progressive Web App (PWA) install mode
+- COMPLETED - Begin implementation of Progressive Web App (PWA) install mode
 - Launch teaser
 
-### **February 2026**
+**February 2026**
 - Add encrypted local backup feature (password-unlock)
 - Publish onboarding video and walkthrough content
 
